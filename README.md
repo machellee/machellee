@@ -19,7 +19,7 @@ I'm passionate about finding technical solutions to medical realted problems! I 
 - LinkedIn: https://www.linkedin.com/in/machelle-le/
 
 # ✨ Fun Fact:
-I've been trying to develop my cooking skills and have been testing out recipes that I tried while abroad in South Korea! 👩‍🍳
+I enjoy traveling and trying out new foods! Ask me about my recent adventures during my study abroad in South Korea ✈️
 
 
 
