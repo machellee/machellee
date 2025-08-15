@@ -2,7 +2,7 @@
 
 🎓 Senior at Swarthmore College, studying Computer Science and Psychology
 
-🔭 Aspiring Data Scientist and Machine Learning in Healthcare Innovation
+🔭 Aspiring Data Scientist and Machine Learning Engineer in Healthcare Innovation
 
 I'm passionate about finding technical solutions to medical realted problems! I strive to make an impact and am excited to learn more about how I can leverage my skills in ML and Data Science to have a positive role in healthcare⚕️. Currently I'm working on growing my technical skills in data science and machine lerning as a fellow at Break Through Tech!
 
