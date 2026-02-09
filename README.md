@@ -11,8 +11,9 @@ I'm passionate about finding technical solutions to medical realted problems! I 
 
 - Tools: Pandas, Numpy, Scikit-Learn, Pytorch, TensorFlow, Keras, Matplotlib
 
-# 💻 Projects: Coming Soon
+# 💻 Projects
 
+- Skincare Routine Generator
 
 # 📫How to Reach me:
 - Email: mle1@swarthmore.edu
